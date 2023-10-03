@@ -35,6 +35,6 @@ setuptools-scm==7.1.0
 tomli==2.0.1
 tox==4.6.4
 typing_extensions==4.7.1
-urllib3==2.0.4
+urllib3==2.0.6
 #virtualenv                  ==> py311
 #yarl                        ==> crossenv
