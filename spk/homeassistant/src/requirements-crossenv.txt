@@ -31,7 +31,7 @@ netifaces==0.11.0
 numpy==1.23.2
 orjson==3.9.1
 # pandas==2.0.3         # depends on installed numpy wheel ?...
-Pillow==9.5.0
+Pillow==10.0.1
 protobuf==4.23.1
 psutil==5.9.5
 pycares==4.3.0
