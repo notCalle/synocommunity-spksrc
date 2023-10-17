@@ -98,7 +98,7 @@ trove-classifiers==2023.7.6
 typing_extensions==4.7.1
 tzdata==2022.7
 tzlocal==4.2
-urllib3==1.26.13
+urllib3==1.26.18
 #virtualenv                  ==> py311
 webencodings==0.5.1
 Werkzeug==2.2.3
