@@ -101,7 +101,7 @@ tzlocal==4.2
 urllib3==1.26.13
 #virtualenv                  ==> py311
 webencodings==0.5.1
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 woops==0.2.1
 zc.lockfile==2.0
 zipp==3.16.2
