@@ -1,4 +1,4 @@
-homeassistant==2023.7.3
+homeassistant==2023.9.0
 home_assistant_frontend==20230705.1
 home_assistant_intents==2023.6.28
 hass_nabucasa==0.69.0
